@@ -1,0 +1,7 @@
+**/.settings
+**/bin
+*.classpath
+*.project
+/.metadata
+/Algorithms
+/AOC
